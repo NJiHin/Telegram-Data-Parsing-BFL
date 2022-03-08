@@ -8,6 +8,8 @@ At first I joined the Telegram Chat to gain more information as I was doing some
 # Visualised Data
 The end product is a script that plots a line graph of the Liquidation Prices for BTC against the message ID with a colored dot indicating whether it is a Liquidated Short or Liquidated Long. The message ID is used in the X-axis to have a unique value for each plot, such that a graph can be formed.
 
+![](https://github.com/NJiHin/Telegram-Data-Parsing-BFL/blob/main/Telegram%20data%20pasring%20pic.png)
+
 The code can be easily edited if the user wants to view other coin pairs. The code also filters out all other messages that the channel sends, such as advertisments, as well as Telegram alerts, such as if the admin of the channel pins the message.
 
 # Conclusion
