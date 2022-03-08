@@ -1,0 +1,4035 @@
+{
+    "name": "Binance Futures Liquidations",
+    "type": "public_channel",
+    "id": 1260161873,
+    "messages": [
+        {
+            "id": 101267,
+            "type": "message",
+            "date": "2022-01-10T00:04:35",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#AVAX"
+                },
+                " Liquidated Short: $76.5K at $87.37"
+            ]
+        },
+        {
+            "id": 101268,
+            "type": "message",
+            "date": "2022-01-10T00:31:53",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LINK"
+                },
+                " Liquidated Short: $62.2K at $27.65"
+            ]
+        },
+        {
+            "id": 101269,
+            "type": "message",
+            "date": "2022-01-10T00:33:30",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOT"
+                },
+                " Liquidated Short: $50.6K at $24.64"
+            ]
+        },
+        {
+            "id": 101270,
+            "type": "message",
+            "date": "2022-01-10T00:48:58",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $58K at $41857.62"
+            ]
+        },
+        {
+            "id": 101271,
+            "type": "message",
+            "date": "2022-01-10T00:51:07",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $62.5K at $3133.51"
+            ]
+        },
+        {
+            "id": 101272,
+            "type": "message",
+            "date": "2022-01-10T00:51:56",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $423K at $3137.66"
+            ]
+        },
+        {
+            "id": 101273,
+            "type": "message",
+            "date": "2022-01-10T00:52:36",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#MATIC"
+                },
+                " Liquidated Short: $51.2K at $2.040"
+            ]
+        },
+        {
+            "id": 101274,
+            "type": "message",
+            "date": "2022-01-10T00:52:36",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SOL"
+                },
+                " Liquidated Short: $50.7K at $142.38"
+            ]
+        },
+        {
+            "id": 101275,
+            "type": "message",
+            "date": "2022-01-10T00:55:27",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#NEAR"
+                },
+                " Liquidated Short: $51.5K at $13.69"
+            ]
+        },
+        {
+            "id": 101276,
+            "type": "message",
+            "date": "2022-01-10T00:58:30",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $50.7K at $72.18"
+            ]
+        },
+        {
+            "id": 101277,
+            "type": "message",
+            "date": "2022-01-10T00:59:30",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $205K at $3159.46"
+            ]
+        },
+        {
+            "id": 101278,
+            "type": "message",
+            "date": "2022-01-10T01:00:40",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOT"
+                },
+                " Liquidated Short: $51.6K at $25.12"
+            ]
+        },
+        {
+            "id": 101279,
+            "type": "message",
+            "date": "2022-01-10T01:04:47",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $422K at $42194.90"
+            ]
+        },
+        {
+            "id": 101280,
+            "type": "message",
+            "date": "2022-01-10T01:26:24",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTM"
+                },
+                " Liquidated Short: $51K at $2.438"
+            ]
+        },
+        {
+            "id": 101281,
+            "type": "message",
+            "date": "2022-01-10T01:33:12",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $172K at $42093.59"
+            ]
+        },
+        {
+            "id": 101282,
+            "type": "message",
+            "date": "2022-01-10T01:33:13",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTM"
+                },
+                " Liquidated Short: $52K at $2.453"
+            ]
+        },
+        {
+            "id": 101283,
+            "type": "message",
+            "date": "2022-01-10T01:33:20",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $190K at $3174.41"
+            ]
+        },
+        {
+            "id": 101284,
+            "type": "message",
+            "date": "2022-01-10T03:24:55",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $319K at $3188.18"
+            ]
+        },
+        {
+            "id": 101285,
+            "type": "message",
+            "date": "2022-01-10T03:25:07",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $88.6K at $42333.16"
+            ]
+        },
+        {
+            "id": 101286,
+            "type": "message",
+            "date": "2022-01-10T03:26:02",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#MATIC"
+                },
+                " Liquidated Short: $124K at $2.125"
+            ]
+        },
+        {
+            "id": 101287,
+            "type": "message",
+            "date": "2022-01-10T03:29:06",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOGE"
+                },
+                " Liquidated Short: $50.1K at $0.154"
+            ]
+        },
+        {
+            "id": 101288,
+            "type": "message",
+            "date": "2022-01-10T03:29:08",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $50.7K at $42590.70"
+            ]
+        },
+        {
+            "id": 101289,
+            "type": "message",
+            "date": "2022-01-10T03:29:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LINK"
+                },
+                " Liquidated Short: $58.8K at $28.37"
+            ]
+        },
+        {
+            "id": 101290,
+            "type": "message",
+            "date": "2022-01-10T03:29:21",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $51.2K at $74.23"
+            ]
+        },
+        {
+            "id": 101291,
+            "type": "message",
+            "date": "2022-01-10T03:29:22",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOGE"
+                },
+                " Liquidated Short: $51.1K at $0.154"
+            ]
+        },
+        {
+            "id": 101292,
+            "type": "message",
+            "date": "2022-01-10T03:30:28",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#VET"
+                },
+                " Liquidated Short: $57.3K at $0.0788"
+            ]
+        },
+        {
+            "id": 101293,
+            "type": "message",
+            "date": "2022-01-10T03:30:41",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $50.7K at $3205.27"
+            ]
+        },
+        {
+            "id": 101294,
+            "type": "message",
+            "date": "2022-01-10T03:59:10",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $214K at $42718.96"
+            ]
+        },
+        {
+            "id": 101295,
+            "type": "message",
+            "date": "2022-01-10T05:15:25",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $50.1K at $74.63"
+            ]
+        },
+        {
+            "id": 101296,
+            "type": "message",
+            "date": "2022-01-10T05:39:27",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $90.3K at $42326.60"
+            ]
+        },
+        {
+            "id": 101297,
+            "type": "message",
+            "date": "2022-01-10T06:34:49",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $63.4K at $3181.75"
+            ]
+        },
+        {
+            "id": 101298,
+            "type": "message",
+            "date": "2022-01-10T06:45:34",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $82.1K at $75.40"
+            ]
+        },
+        {
+            "id": 101299,
+            "type": "message",
+            "date": "2022-01-10T06:53:15",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $157K at $42190.50"
+            ]
+        },
+        {
+            "id": 101300,
+            "type": "message",
+            "date": "2022-01-10T06:56:03",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CRV"
+                },
+                " Liquidated Long: $67.5K at $4.632"
+            ]
+        },
+        {
+            "id": 101301,
+            "type": "message",
+            "date": "2022-01-10T07:07:13",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $75.9K at $42039.01"
+            ]
+        },
+        {
+            "id": 101302,
+            "type": "message",
+            "date": "2022-01-10T07:08:54",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $240K at $41933.67"
+            ]
+        },
+        {
+            "id": 101303,
+            "type": "message",
+            "date": "2022-01-10T07:23:40",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $106K at $41910.96"
+            ]
+        },
+        {
+            "id": 101304,
+            "type": "message",
+            "date": "2022-01-10T07:26:12",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $51.5K at $3155.69"
+            ]
+        },
+        {
+            "id": 101305,
+            "type": "message",
+            "date": "2022-01-10T08:00:53",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $52.1K at $3143.18"
+            ]
+        },
+        {
+            "id": 101306,
+            "type": "message",
+            "date": "2022-01-10T10:13:54",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#AVAX"
+                },
+                " Liquidated Long: $74.2K at $87.55"
+            ]
+        },
+        {
+            "id": 101307,
+            "type": "message",
+            "date": "2022-01-10T10:42:43",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $50.5K at $72.75"
+            ]
+        },
+        {
+            "id": 101308,
+            "type": "message",
+            "date": "2022-01-10T14:08:21",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $74.8K at $41855.38"
+            ]
+        },
+        {
+            "id": 101309,
+            "type": "message",
+            "date": "2022-01-10T16:22:45",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $66.2K at $3146.19"
+            ]
+        },
+        {
+            "id": 101310,
+            "type": "message",
+            "date": "2022-01-10T16:41:27",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#NEAR"
+                },
+                " Liquidated Short: $77.8K at $14.39"
+            ]
+        },
+        {
+            "id": 101311,
+            "type": "message",
+            "date": "2022-01-10T17:45:33",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#NEAR"
+                },
+                " Liquidated Short: $50.4K at $14.52"
+            ]
+        },
+        {
+            "id": 101312,
+            "type": "message",
+            "date": "2022-01-10T18:36:30",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#NEAR"
+                },
+                " Liquidated Short: $50.5K at $14.52"
+            ]
+        },
+        {
+            "id": 101313,
+            "type": "message",
+            "date": "2022-01-10T19:01:18",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $248K at $41711.34"
+            ]
+        },
+        {
+            "id": 101314,
+            "type": "message",
+            "date": "2022-01-10T19:01:19",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $99.3K at $3131.31"
+            ]
+        },
+        {
+            "id": 101315,
+            "type": "message",
+            "date": "2022-01-10T19:03:08",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $494K at $41666.69"
+            ]
+        },
+        {
+            "id": 101316,
+            "type": "message",
+            "date": "2022-01-10T19:03:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $314K at $3126.19"
+            ]
+        },
+        {
+            "id": 101317,
+            "type": "message",
+            "date": "2022-01-10T19:03:11",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $472K at $3126.50"
+            ]
+        },
+        {
+            "id": 101318,
+            "type": "message",
+            "date": "2022-01-10T19:06:15",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $451K at $3115.04"
+            ]
+        },
+        {
+            "id": 101319,
+            "type": "message",
+            "date": "2022-01-10T19:10:14",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $116K at $3104.69"
+            ]
+        },
+        {
+            "id": 101320,
+            "type": "message",
+            "date": "2022-01-10T19:27:32",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $78.8K at $3096.27"
+            ]
+        },
+        {
+            "id": 101321,
+            "type": "message",
+            "date": "2022-01-10T19:52:20",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XRP"
+                },
+                " Liquidated Long: $60.5K at $0.740"
+            ]
+        },
+        {
+            "id": 101322,
+            "type": "message",
+            "date": "2022-01-10T19:52:23",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Long: $69.2K at $69.24"
+            ]
+        },
+        {
+            "id": 101323,
+            "type": "message",
+            "date": "2022-01-10T19:57:42",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CRV"
+                },
+                " Liquidated Long: $53.8K at $4.403"
+            ]
+        },
+        {
+            "id": 101324,
+            "type": "message",
+            "date": "2022-01-10T20:11:17",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DYDX"
+                },
+                " Liquidated Long: $106K at $6.475"
+            ]
+        },
+        {
+            "id": 101325,
+            "type": "message",
+            "date": "2022-01-10T20:13:55",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $70.5K at $41384.88"
+            ]
+        },
+        {
+            "id": 101326,
+            "type": "message",
+            "date": "2022-01-10T20:15:11",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $99.4K at $41336.46"
+            ]
+        },
+        {
+            "id": 101327,
+            "type": "message",
+            "date": "2022-01-10T20:35:55",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ADA"
+                },
+                " Liquidated Long: $104K at $1.138"
+            ]
+        },
+        {
+            "id": 101328,
+            "type": "message",
+            "date": "2022-01-10T20:38:28",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $186K at $41246.99"
+            ]
+        },
+        {
+            "id": 101329,
+            "type": "message",
+            "date": "2022-01-10T20:39:13",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Long: $68.5K at $68.42"
+            ]
+        },
+        {
+            "id": 101330,
+            "type": "message",
+            "date": "2022-01-10T20:43:22",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Long: $144K at $68.51"
+            ]
+        },
+        {
+            "id": 101331,
+            "type": "message",
+            "date": "2022-01-10T20:45:04",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $90.9K at $41222.00"
+            ]
+        },
+        {
+            "id": 101332,
+            "type": "message",
+            "date": "2022-01-10T20:46:44",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CRV"
+                },
+                " Liquidated Long: $127K at $4.321"
+            ]
+        },
+        {
+            "id": 101333,
+            "type": "message",
+            "date": "2022-01-10T20:46:47",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $61.2K at $3061.28"
+            ]
+        },
+        {
+            "id": 101334,
+            "type": "message",
+            "date": "2022-01-10T20:47:14",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ALICE"
+                },
+                " Liquidated Long: $107K at $10.50"
+            ]
+        },
+        {
+            "id": 101335,
+            "type": "message",
+            "date": "2022-01-10T20:50:07",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $610K at $3050.68"
+            ]
+        },
+        {
+            "id": 101336,
+            "type": "message",
+            "date": "2022-01-10T20:50:07",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETC"
+                },
+                " Liquidated Long: $175K at $28.85"
+            ]
+        },
+        {
+            "id": 101337,
+            "type": "message",
+            "date": "2022-01-10T20:51:14",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#EOS"
+                },
+                " Liquidated Long: $166K at $2.707"
+            ]
+        },
+        {
+            "id": 101338,
+            "type": "message",
+            "date": "2022-01-10T20:51:15",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $79.9K at $41060.18"
+            ]
+        },
+        {
+            "id": 101339,
+            "type": "message",
+            "date": "2022-01-10T20:52:44",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $53.8K at $3031.05"
+            ]
+        },
+        {
+            "id": 101340,
+            "type": "message",
+            "date": "2022-01-10T21:13:48",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $63.3K at $40856.11"
+            ]
+        },
+        {
+            "id": 101341,
+            "type": "message",
+            "date": "2022-01-10T21:15:34",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $57K at $3018.71"
+            ]
+        },
+        {
+            "id": 101342,
+            "type": "message",
+            "date": "2022-01-10T21:15:52",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $91.7K at $3018.97"
+            ]
+        },
+        {
+            "id": 101343,
+            "type": "message",
+            "date": "2022-01-10T21:15:52",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $158K at $40810.08"
+            ]
+        },
+        {
+            "id": 101344,
+            "type": "message",
+            "date": "2022-01-10T21:15:55",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $60.4K at $3017.79"
+            ]
+        },
+        {
+            "id": 101345,
+            "type": "message",
+            "date": "2022-01-10T21:16:23",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $311K at $40802.30"
+            ]
+        },
+        {
+            "id": 101346,
+            "type": "message",
+            "date": "2022-01-10T21:16:29",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOT"
+                },
+                " Liquidated Long: $73K at $23.50"
+            ]
+        },
+        {
+            "id": 101347,
+            "type": "message",
+            "date": "2022-01-10T21:53:54",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CRV"
+                },
+                " Liquidated Long: $95.9K at $4.230"
+            ]
+        },
+        {
+            "id": 101348,
+            "type": "message",
+            "date": "2022-01-10T21:54:31",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $150K at $40717.50"
+            ]
+        },
+        {
+            "id": 101349,
+            "type": "message",
+            "date": "2022-01-10T22:07:10",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SAND"
+                },
+                " Liquidated Long: $59K at $4.381"
+            ]
+        },
+        {
+            "id": 101350,
+            "type": "message",
+            "date": "2022-01-10T22:07:46",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $132K at $40655.09"
+            ]
+        },
+        {
+            "id": 101351,
+            "type": "message",
+            "date": "2022-01-10T22:07:55",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CTK"
+                },
+                " Liquidated Long: $59.2K at $1.278"
+            ]
+        },
+        {
+            "id": 101352,
+            "type": "message",
+            "date": "2022-01-10T22:08:21",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#EOS"
+                },
+                " Liquidated Long: $115K at $2.609"
+            ]
+        },
+        {
+            "id": 101353,
+            "type": "message",
+            "date": "2022-01-10T22:08:26",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTM"
+                },
+                " Liquidated Long: $56.8K at $2.220"
+            ]
+        },
+        {
+            "id": 101354,
+            "type": "message",
+            "date": "2022-01-10T22:11:30",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $187K at $3001.81"
+            ]
+        },
+        {
+            "id": 101355,
+            "type": "message",
+            "date": "2022-01-10T22:11:33",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $58.6K at $3001.62"
+            ]
+        },
+        {
+            "id": 101356,
+            "type": "message",
+            "date": "2022-01-10T22:16:57",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $184K at $40540.33"
+            ]
+        },
+        {
+            "id": 101357,
+            "type": "message",
+            "date": "2022-01-10T22:16:59",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#TRX"
+                },
+                " Liquidated Long: $63.2K at $0.0632"
+            ]
+        },
+        {
+            "id": 101358,
+            "type": "message",
+            "date": "2022-01-10T22:17:01",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $146K at $40534.43"
+            ]
+        },
+        {
+            "id": 101359,
+            "type": "message",
+            "date": "2022-01-10T22:18:29",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $70.2K at $2994.13"
+            ]
+        },
+        {
+            "id": 101360,
+            "type": "message",
+            "date": "2022-01-10T22:18:30",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $306K at $2991.46"
+            ]
+        },
+        {
+            "id": 101361,
+            "type": "message",
+            "date": "2022-01-10T22:18:34",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $152K at $40351.04"
+            ]
+        },
+        {
+            "id": 101362,
+            "type": "message",
+            "date": "2022-01-10T22:18:36",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#1000SHIB"
+                },
+                " Liquidated Long: $111K at $0.0265"
+            ]
+        },
+        {
+            "id": 101363,
+            "type": "message",
+            "date": "2022-01-10T22:18:43",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $217K at $2985.02"
+            ]
+        },
+        {
+            "id": 101364,
+            "type": "message",
+            "date": "2022-01-10T22:18:48",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FIL"
+                },
+                " Liquidated Long: $63.9K at $27.67"
+            ]
+        },
+        {
+            "id": 101365,
+            "type": "message",
+            "date": "2022-01-10T22:18:54",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $132K at $40111.00"
+            ]
+        },
+        {
+            "id": 101366,
+            "type": "message",
+            "date": "2022-01-10T22:18:57",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $55.7K at $40116.05"
+            ]
+        },
+        {
+            "id": 101367,
+            "type": "message",
+            "date": "2022-01-10T22:18:57",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CRV"
+                },
+                " Liquidated Long: $59.4K at $4.060"
+            ]
+        },
+        {
+            "id": 101368,
+            "type": "message",
+            "date": "2022-01-10T22:18:59",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XLM"
+                },
+                " Liquidated Long: $244K at $0.242"
+            ]
+        },
+        {
+            "id": 101369,
+            "type": "message",
+            "date": "2022-01-10T22:19:02",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETHUSDT_22"
+                },
+                " Liquidated Long: $138K at $2992.68"
+            ]
+        },
+        {
+            "id": 101370,
+            "type": "message",
+            "date": "2022-01-10T22:19:02",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#MATIC"
+                },
+                " Liquidated Long: $144K at $2.041"
+            ]
+        },
+        {
+            "id": 101371,
+            "type": "message",
+            "date": "2022-01-10T22:19:12",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CVC"
+                },
+                " Liquidated Long: $95.8K at $0.301"
+            ]
+        },
+        {
+            "id": 101372,
+            "type": "message",
+            "date": "2022-01-10T22:19:12",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTT"
+                },
+                " Liquidated Long: $106K at $37.35"
+            ]
+        },
+        {
+            "id": 101373,
+            "type": "message",
+            "date": "2022-01-10T22:19:23",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#TRX"
+                },
+                " Liquidated Long: $79.2K at $0.0623"
+            ]
+        },
+        {
+            "id": 101374,
+            "type": "message",
+            "date": "2022-01-10T22:21:13",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $64.3K at $39955.14"
+            ]
+        },
+        {
+            "id": 101375,
+            "type": "message",
+            "date": "2022-01-10T22:21:16",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $574K at $39939.61"
+            ]
+        },
+        {
+            "id": 101376,
+            "type": "message",
+            "date": "2022-01-10T22:21:23",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $70K at $2948.39"
+            ]
+        },
+        {
+            "id": 101377,
+            "type": "message",
+            "date": "2022-01-10T22:21:32",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XRP"
+                },
+                " Liquidated Long: $150K at $0.694"
+            ]
+        },
+        {
+            "id": 101378,
+            "type": "message",
+            "date": "2022-01-10T22:21:39",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#AVAX"
+                },
+                " Liquidated Long: $78.6K at $80.03"
+            ]
+        },
+        {
+            "id": 101379,
+            "type": "message",
+            "date": "2022-01-10T22:27:39",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $51.7K at $2936.28"
+            ]
+        },
+        {
+            "id": 101380,
+            "type": "message",
+            "date": "2022-01-10T22:28:31",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SAND"
+                },
+                " Liquidated Short: $50.5K at $4.273"
+            ]
+        },
+        {
+            "id": 101381,
+            "type": "message",
+            "date": "2022-01-10T22:32:08",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $246K at $39679.18"
+            ]
+        },
+        {
+            "id": 101382,
+            "type": "message",
+            "date": "2022-01-10T22:35:17",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#GALA"
+                },
+                " Liquidated Long: $137K at $0.292"
+            ]
+        },
+        {
+            "id": 101383,
+            "type": "message",
+            "date": "2022-01-10T22:35:17",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Long: $228K at $65.44"
+            ]
+        },
+        {
+            "id": 101384,
+            "type": "message",
+            "date": "2022-01-10T22:36:12",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOT"
+                },
+                " Liquidated Long: $54.5K at $22.43"
+            ]
+        },
+        {
+            "id": 101385,
+            "type": "message",
+            "date": "2022-01-10T22:39:44",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#1000SHIB"
+                },
+                " Liquidated Short: $50.6K at $0.0258"
+            ]
+        },
+        {
+            "id": 101386,
+            "type": "message",
+            "date": "2022-01-10T22:41:40",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $460K at $2968.39"
+            ]
+        },
+        {
+            "id": 101387,
+            "type": "message",
+            "date": "2022-01-10T22:41:46",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $604K at $40271.29"
+            ]
+        },
+        {
+            "id": 101388,
+            "type": "message",
+            "date": "2022-01-10T22:41:47",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $506K at $2977.37"
+            ]
+        },
+        {
+            "id": 101389,
+            "type": "message",
+            "date": "2022-01-10T22:41:54",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTM"
+                },
+                " Liquidated Short: $153K at $2.178"
+            ]
+        },
+        {
+            "id": 101390,
+            "type": "message",
+            "date": "2022-01-10T22:43:25",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#UNI"
+                },
+                " Liquidated Short: $259K at $15.19"
+            ]
+        },
+        {
+            "id": 101391,
+            "type": "message",
+            "date": "2022-01-10T22:43:26",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#THETA"
+                },
+                " Liquidated Short: $258K at $3.809"
+            ]
+        },
+        {
+            "id": 101392,
+            "type": "message",
+            "date": "2022-01-10T22:43:28",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XLM"
+                },
+                " Liquidated Short: $241K at $0.247"
+            ]
+        },
+        {
+            "id": 101393,
+            "type": "message",
+            "date": "2022-01-10T22:43:29",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CRV"
+                },
+                " Liquidated Short: $155K at $4.189"
+            ]
+        },
+        {
+            "id": 101394,
+            "type": "message",
+            "date": "2022-01-10T22:43:31",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CELR"
+                },
+                " Liquidated Short: $154K at $0.0623"
+            ]
+        },
+        {
+            "id": 101395,
+            "type": "message",
+            "date": "2022-01-10T22:43:32",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#AVAX"
+                },
+                " Liquidated Short: $154K at $83.76"
+            ]
+        },
+        {
+            "id": 101396,
+            "type": "message",
+            "date": "2022-01-10T22:43:35",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $61K at $3000.00"
+            ]
+        },
+        {
+            "id": 101397,
+            "type": "message",
+            "date": "2022-01-10T22:46:35",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $56.4K at $68.29"
+            ]
+        },
+        {
+            "id": 101398,
+            "type": "message",
+            "date": "2022-01-10T22:48:44",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $203K at $40587.89"
+            ]
+        },
+        {
+            "id": 101399,
+            "type": "message",
+            "date": "2022-01-10T22:50:47",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $680K at $40911.66"
+            ]
+        },
+        {
+            "id": 101400,
+            "type": "message",
+            "date": "2022-01-10T22:50:53",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $121K at $3034.19"
+            ]
+        },
+        {
+            "id": 101401,
+            "type": "message",
+            "date": "2022-01-10T23:00:10",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $126K at $40877.81"
+            ]
+        },
+        {
+            "id": 101402,
+            "type": "message",
+            "date": "2022-01-10T23:07:22",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $105K at $40843.01"
+            ]
+        },
+        {
+            "id": 101403,
+            "type": "message",
+            "date": "2022-01-10T23:08:08",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTM"
+                },
+                " Liquidated Short: $50.6K at $2.219"
+            ]
+        },
+        {
+            "id": 101404,
+            "type": "message",
+            "date": "2022-01-10T23:12:20",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $99.8K at $40630.82"
+            ]
+        },
+        {
+            "id": 101405,
+            "type": "message",
+            "date": "2022-01-10T23:17:05",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $102K at $40573.58"
+            ]
+        },
+        {
+            "id": 101406,
+            "type": "message",
+            "date": "2022-01-10T23:33:08",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $133K at $40983.88"
+            ]
+        },
+        {
+            "id": 101407,
+            "type": "message",
+            "date": "2022-01-10T23:33:33",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $232K at $41041.26"
+            ]
+        },
+        {
+            "id": 101408,
+            "type": "message",
+            "date": "2022-01-10T23:59:48",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $75.3K at $40985.93"
+            ]
+        },
+        {
+            "id": 101409,
+            "type": "message",
+            "date": "2022-01-11T00:15:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $105K at $41136.10"
+            ]
+        },
+        {
+            "id": 101410,
+            "type": "message",
+            "date": "2022-01-11T00:17:55",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BNB"
+                },
+                " Liquidated Short: $50.6K at $419.46"
+            ]
+        },
+        {
+            "id": 101411,
+            "type": "message",
+            "date": "2022-01-11T00:18:13",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ATOM"
+                },
+                " Liquidated Short: $157K at $36.83"
+            ]
+        },
+        {
+            "id": 101412,
+            "type": "message",
+            "date": "2022-01-11T00:18:14",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $258K at $70.32"
+            ]
+        },
+        {
+            "id": 101413,
+            "type": "message",
+            "date": "2022-01-11T00:18:14",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DYDX"
+                },
+                " Liquidated Short: $155K at $6.321"
+            ]
+        },
+        {
+            "id": 101414,
+            "type": "message",
+            "date": "2022-01-11T00:18:15",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ENJ"
+                },
+                " Liquidated Short: $154K at $2.189"
+            ]
+        },
+        {
+            "id": 101415,
+            "type": "message",
+            "date": "2022-01-11T00:18:16",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $56.1K at $41542.55"
+            ]
+        },
+        {
+            "id": 101416,
+            "type": "message",
+            "date": "2022-01-11T00:18:21",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#TRX"
+                },
+                " Liquidated Short: $255K at $0.0641"
+            ]
+        },
+        {
+            "id": 101417,
+            "type": "message",
+            "date": "2022-01-11T00:18:22",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#THETA"
+                },
+                " Liquidated Short: $254K at $3.857"
+            ]
+        },
+        {
+            "id": 101418,
+            "type": "message",
+            "date": "2022-01-11T00:18:29",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $62.8K at $41899.00"
+            ]
+        },
+        {
+            "id": 101419,
+            "type": "message",
+            "date": "2022-01-11T00:19:12",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $77.5K at $3086.88"
+            ]
+        },
+        {
+            "id": 101420,
+            "type": "message",
+            "date": "2022-01-11T00:27:49",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $92.1K at $71.91"
+            ]
+        },
+        {
+            "id": 101421,
+            "type": "message",
+            "date": "2022-01-11T00:37:47",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "forwarded_from": "Binance Futures Liquidations",
+            "file": "(File not included. Change data exporting settings to download.)",
+            "thumbnail": "(File not included. Change data exporting settings to download.)",
+            "media_type": "video_file",
+            "mime_type": "video/mp4",
+            "duration_seconds": 10,
+            "width": 640,
+            "height": 352,
+            "text": [
+                "\u00f0\u0178\u0161\u00a8#1 BINANCE TRADING CHANNEL\u00f0\u0178\u0161\u00a8 \n\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013 \nBinance Killers has earned its Market Leader spot fair and square. They offer their members the most exact daily Binance/Market analysis, and average of 10 Binance Futures signals per week with a historical accuracy of 97.2% and the most advance Cornix auto trading integration in the market.\n\nWith the highest rating in the market, it's clear our Killers aren't playing around\u00f0\u0178\u02dc\u2030\n\n",
+                {
+                    "type": "bold",
+                    "text": "JOIN CHANNEL: https://t.me/+aS60utHX_7JhYjM1\n"
+                },
+                "\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013\u00e2\u017e\u2013 \n- Binance Killers\u00c2\u00ae\n\n\u00e2\u20ac\u201d\n\n",
+                {
+                    "type": "hashtag",
+                    "text": "#Sponsored"
+                },
+                ""
+            ]
+        },
+        {
+            "id": 101422,
+            "type": "service",
+            "date": "2022-01-11T01:48:45",
+            "actor": "Binance Futures Liquidations",
+            "actor_id": "channel1260161873",
+            "action": "pin_message",
+            "message_id": 101421,
+            "text": ""
+        },
+        {
+            "id": 101423,
+            "type": "message",
+            "date": "2022-01-11T01:53:11",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SOL"
+                },
+                " Liquidated Short: $50.5K at $134.65"
+            ]
+        },
+        {
+            "id": 101424,
+            "type": "message",
+            "date": "2022-01-11T01:53:12",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $70.2K at $41465.41"
+            ]
+        },
+        {
+            "id": 101425,
+            "type": "message",
+            "date": "2022-01-11T02:51:45",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $97K at $3048.54"
+            ]
+        },
+        {
+            "id": 101426,
+            "type": "message",
+            "date": "2022-01-11T03:51:25",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $210K at $41336.62"
+            ]
+        },
+        {
+            "id": 101427,
+            "type": "message",
+            "date": "2022-01-11T03:52:00",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Long: $497K at $3020.73"
+            ]
+        },
+        {
+            "id": 101428,
+            "type": "message",
+            "date": "2022-01-11T04:06:07",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $248K at $41207.33"
+            ]
+        },
+        {
+            "id": 101429,
+            "type": "message",
+            "date": "2022-01-11T04:33:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $118K at $41430.74"
+            ]
+        },
+        {
+            "id": 101430,
+            "type": "message",
+            "date": "2022-01-11T04:56:25",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#AVAX"
+                },
+                " Liquidated Short: $52K at $84.55"
+            ]
+        },
+        {
+            "id": 101431,
+            "type": "message",
+            "date": "2022-01-11T04:56:26",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ATOM"
+                },
+                " Liquidated Short: $51.6K at $37.32"
+            ]
+        },
+        {
+            "id": 101432,
+            "type": "message",
+            "date": "2022-01-11T04:56:26",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BNB"
+                },
+                " Liquidated Short: $51.2K at $422.48"
+            ]
+        },
+        {
+            "id": 101433,
+            "type": "message",
+            "date": "2022-01-11T04:56:27",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#VET"
+                },
+                " Liquidated Short: $51.1K at $0.0730"
+            ]
+        },
+        {
+            "id": 101434,
+            "type": "message",
+            "date": "2022-01-11T04:56:27",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ZEC"
+                },
+                " Liquidated Short: $51K at $139.90"
+            ]
+        },
+        {
+            "id": 101435,
+            "type": "message",
+            "date": "2022-01-11T04:57:19",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XTZ"
+                },
+                " Liquidated Short: $50.8K at $4.019"
+            ]
+        },
+        {
+            "id": 101436,
+            "type": "message",
+            "date": "2022-01-11T04:57:19",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SAND"
+                },
+                " Liquidated Short: $50.8K at $4.415"
+            ]
+        },
+        {
+            "id": 101437,
+            "type": "message",
+            "date": "2022-01-11T04:57:20",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XMR"
+                },
+                " Liquidated Short: $50.7K at $183.36"
+            ]
+        },
+        {
+            "id": 101438,
+            "type": "message",
+            "date": "2022-01-11T04:57:20",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XRP"
+                },
+                " Liquidated Short: $50.7K at $0.733"
+            ]
+        },
+        {
+            "id": 101439,
+            "type": "message",
+            "date": "2022-01-11T04:57:21",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#UNI"
+                },
+                " Liquidated Short: $50.7K at $15.20"
+            ]
+        },
+        {
+            "id": 101440,
+            "type": "message",
+            "date": "2022-01-11T04:57:24",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SOL"
+                },
+                " Liquidated Short: $50.5K at $135.44"
+            ]
+        },
+        {
+            "id": 101441,
+            "type": "message",
+            "date": "2022-01-11T04:57:33",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $69.3K at $3080.00"
+            ]
+        },
+        {
+            "id": 101442,
+            "type": "message",
+            "date": "2022-01-11T05:02:22",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ADA"
+                },
+                " Liquidated Short: $51.3K at $1.131"
+            ]
+        },
+        {
+            "id": 101443,
+            "type": "message",
+            "date": "2022-01-11T05:02:22",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#AAVE"
+                },
+                " Liquidated Short: $51.3K at $199.79"
+            ]
+        },
+        {
+            "id": 101444,
+            "type": "message",
+            "date": "2022-01-11T05:05:34",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $75.6K at $41888.90"
+            ]
+        },
+        {
+            "id": 101445,
+            "type": "message",
+            "date": "2022-01-11T05:06:28",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ALGO"
+                },
+                " Liquidated Short: $51.7K at $1.375"
+            ]
+        },
+        {
+            "id": 101446,
+            "type": "message",
+            "date": "2022-01-11T07:25:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LINK"
+                },
+                " Liquidated Short: $57.3K at $27.97"
+            ]
+        },
+        {
+            "id": 101447,
+            "type": "message",
+            "date": "2022-01-11T07:51:26",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $74.4K at $3085.58"
+            ]
+        },
+        {
+            "id": 101448,
+            "type": "message",
+            "date": "2022-01-11T07:58:33",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#NEAR"
+                },
+                " Liquidated Short: $52.2K at $15.50"
+            ]
+        },
+        {
+            "id": 101449,
+            "type": "message",
+            "date": "2022-01-11T07:58:34",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LINK"
+                },
+                " Liquidated Short: $50.4K at $28.00"
+            ]
+        },
+        {
+            "id": 101450,
+            "type": "message",
+            "date": "2022-01-11T10:23:02",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#AVAX"
+                },
+                " Liquidated Short: $50.7K at $84.93"
+            ]
+        },
+        {
+            "id": 101451,
+            "type": "message",
+            "date": "2022-01-11T10:31:16",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $65.9K at $42202.30"
+            ]
+        },
+        {
+            "id": 101452,
+            "type": "message",
+            "date": "2022-01-11T10:31:17",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SOL"
+                },
+                " Liquidated Short: $50.4K at $136.91"
+            ]
+        },
+        {
+            "id": 101453,
+            "type": "message",
+            "date": "2022-01-11T10:32:40",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $534K at $3121.95"
+            ]
+        },
+        {
+            "id": 101454,
+            "type": "message",
+            "date": "2022-01-11T10:35:59",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#NEAR"
+                },
+                " Liquidated Short: $54K at $16.62"
+            ]
+        },
+        {
+            "id": 101455,
+            "type": "message",
+            "date": "2022-01-11T10:45:43",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $82.3K at $42255.00"
+            ]
+        },
+        {
+            "id": 101456,
+            "type": "message",
+            "date": "2022-01-11T10:48:28",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $117K at $42295.17"
+            ]
+        },
+        {
+            "id": 101457,
+            "type": "message",
+            "date": "2022-01-11T10:50:10",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $89.4K at $42369.11"
+            ]
+        },
+        {
+            "id": 101458,
+            "type": "message",
+            "date": "2022-01-11T11:49:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $50.5K at $72.42"
+            ]
+        },
+        {
+            "id": 101459,
+            "type": "message",
+            "date": "2022-01-11T16:05:20",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ATOM"
+                },
+                " Liquidated Short: $118K at $38.80"
+            ]
+        },
+        {
+            "id": 101460,
+            "type": "message",
+            "date": "2022-01-11T16:24:13",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $50.3K at $42500.00"
+            ]
+        },
+        {
+            "id": 101461,
+            "type": "message",
+            "date": "2022-01-11T16:24:15",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $338K at $42645.30"
+            ]
+        },
+        {
+            "id": 101462,
+            "type": "message",
+            "date": "2022-01-11T17:09:16",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $229K at $41873.36"
+            ]
+        },
+        {
+            "id": 101463,
+            "type": "message",
+            "date": "2022-01-11T18:57:16",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $170K at $41628.23"
+            ]
+        },
+        {
+            "id": 101464,
+            "type": "message",
+            "date": "2022-01-11T18:57:29",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $248K at $41603.49"
+            ]
+        },
+        {
+            "id": 101465,
+            "type": "message",
+            "date": "2022-01-11T19:30:18",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#MATIC"
+                },
+                " Liquidated Short: $50.1K at $2.160"
+            ]
+        },
+        {
+            "id": 101466,
+            "type": "message",
+            "date": "2022-01-11T20:13:41",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $106K at $3130.75"
+            ]
+        },
+        {
+            "id": 101467,
+            "type": "message",
+            "date": "2022-01-11T20:21:29",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SOL"
+                },
+                " Liquidated Short: $50.7K at $137.01"
+            ]
+        },
+        {
+            "id": 101468,
+            "type": "message",
+            "date": "2022-01-11T20:41:29",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTM"
+                },
+                " Liquidated Short: $51.9K at $2.384"
+            ]
+        },
+        {
+            "id": 101469,
+            "type": "message",
+            "date": "2022-01-11T20:44:56",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOT"
+                },
+                " Liquidated Short: $50.8K at $24.34"
+            ]
+        },
+        {
+            "id": 101470,
+            "type": "message",
+            "date": "2022-01-11T20:45:30",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTM"
+                },
+                " Liquidated Short: $59.9K at $2.396"
+            ]
+        },
+        {
+            "id": 101471,
+            "type": "message",
+            "date": "2022-01-11T22:28:59",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Long: $99.9K at $41385.91"
+            ]
+        },
+        {
+            "id": 101472,
+            "type": "message",
+            "date": "2022-01-11T22:52:01",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#MATIC"
+                },
+                " Liquidated Short: $50.2K at $2.235"
+            ]
+        },
+        {
+            "id": 101473,
+            "type": "message",
+            "date": "2022-01-11T23:01:32",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SAND"
+                },
+                " Liquidated Short: $50.5K at $4.462"
+            ]
+        },
+        {
+            "id": 101474,
+            "type": "message",
+            "date": "2022-01-11T23:04:21",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $59.8K at $41866.95"
+            ]
+        },
+        {
+            "id": 101475,
+            "type": "message",
+            "date": "2022-01-11T23:04:59",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $54.2K at $3137.24"
+            ]
+        },
+        {
+            "id": 101476,
+            "type": "message",
+            "date": "2022-01-11T23:05:06",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $55.8K at $41929.63"
+            ]
+        },
+        {
+            "id": 101477,
+            "type": "message",
+            "date": "2022-01-11T23:05:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $355K at $41971.48"
+            ]
+        },
+        {
+            "id": 101478,
+            "type": "message",
+            "date": "2022-01-11T23:05:13",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $148K at $3148.79"
+            ]
+        },
+        {
+            "id": 101479,
+            "type": "message",
+            "date": "2022-01-12T00:07:28",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $930K at $42080.79"
+            ]
+        },
+        {
+            "id": 101480,
+            "type": "message",
+            "date": "2022-01-12T00:12:29",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $85.2K at $3179.49"
+            ]
+        },
+        {
+            "id": 101481,
+            "type": "message",
+            "date": "2022-01-12T00:12:37",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $63.6K at $3180.00"
+            ]
+        },
+        {
+            "id": 101482,
+            "type": "message",
+            "date": "2022-01-12T00:12:39",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $94.1K at $42087.99"
+            ]
+        },
+        {
+            "id": 101483,
+            "type": "message",
+            "date": "2022-01-12T00:13:36",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $50.8K at $42153.60"
+            ]
+        },
+        {
+            "id": 101484,
+            "type": "message",
+            "date": "2022-01-12T00:24:57",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SAND"
+                },
+                " Liquidated Short: $61.9K at $4.596"
+            ]
+        },
+        {
+            "id": 101485,
+            "type": "message",
+            "date": "2022-01-12T00:30:32",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $144K at $3200.21"
+            ]
+        },
+        {
+            "id": 101486,
+            "type": "message",
+            "date": "2022-01-12T00:30:32",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XRP"
+                },
+                " Liquidated Short: $105K at $0.754"
+            ]
+        },
+        {
+            "id": 101487,
+            "type": "message",
+            "date": "2022-01-12T00:37:34",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $341K at $42609.62"
+            ]
+        },
+        {
+            "id": 101488,
+            "type": "message",
+            "date": "2022-01-12T00:37:46",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XRP"
+                },
+                " Liquidated Short: $158K at $0.758"
+            ]
+        },
+        {
+            "id": 101489,
+            "type": "message",
+            "date": "2022-01-12T00:40:05",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BNB"
+                },
+                " Liquidated Short: $60.4K at $464.61"
+            ]
+        },
+        {
+            "id": 101490,
+            "type": "message",
+            "date": "2022-01-12T00:40:07",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#CRV"
+                },
+                " Liquidated Short: $88.7K at $4.603"
+            ]
+        },
+        {
+            "id": 101491,
+            "type": "message",
+            "date": "2022-01-12T00:40:07",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $263K at $73.59"
+            ]
+        },
+        {
+            "id": 101492,
+            "type": "message",
+            "date": "2022-01-12T00:40:10",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SAND"
+                },
+                " Liquidated Short: $60.5K at $4.629"
+            ]
+        },
+        {
+            "id": 101493,
+            "type": "message",
+            "date": "2022-01-12T00:40:18",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $77.5K at $3232.28"
+            ]
+        },
+        {
+            "id": 101494,
+            "type": "message",
+            "date": "2022-01-12T00:40:27",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETH"
+                },
+                " Liquidated Short: $104K at $3233.96"
+            ]
+        },
+        {
+            "id": 101495,
+            "type": "message",
+            "date": "2022-01-12T00:40:28",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $87.7K at $42841.90"
+            ]
+        },
+        {
+            "id": 101496,
+            "type": "message",
+            "date": "2022-01-12T00:41:21",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#AVAX"
+                },
+                " Liquidated Short: $52K at $89.87"
+            ]
+        },
+        {
+            "id": 101497,
+            "type": "message",
+            "date": "2022-01-12T00:42:49",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#NEAR"
+                },
+                " Liquidated Short: $63.5K at $16.98"
+            ]
+        },
+        {
+            "id": 101498,
+            "type": "message",
+            "date": "2022-01-12T01:01:40",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $50.4K at $73.95"
+            ]
+        },
+        {
+            "id": 101499,
+            "type": "message",
+            "date": "2022-01-12T01:03:00",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SAND"
+                },
+                " Liquidated Short: $50.5K at $4.642"
+            ]
+        },
+        {
+            "id": 101500,
+            "type": "message",
+            "date": "2022-01-12T01:09:16",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#MATIC"
+                },
+                " Liquidated Short: $159K at $2.339"
+            ]
+        },
+        {
+            "id": 101501,
+            "type": "message",
+            "date": "2022-01-12T01:09:16",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ICP"
+                },
+                " Liquidated Short: $52.8K at $35.13"
+            ]
+        },
+        {
+            "id": 101502,
+            "type": "message",
+            "date": "2022-01-12T01:10:00",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ETHUSDT_22"
+                },
+                " Liquidated Short: $53.9K at $3302.26"
+            ]
+        },
+        {
+            "id": 101503,
+            "type": "message",
+            "date": "2022-01-12T01:12:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#THETA"
+                },
+                " Liquidated Short: $124K at $4.149"
+            ]
+        },
+        {
+            "id": 101504,
+            "type": "message",
+            "date": "2022-01-12T01:12:51",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $86.1K at $43040.10"
+            ]
+        },
+        {
+            "id": 101505,
+            "type": "message",
+            "date": "2022-01-12T01:12:55",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LRC"
+                },
+                " Liquidated Short: $56.5K at $1.526"
+            ]
+        },
+        {
+            "id": 101506,
+            "type": "message",
+            "date": "2022-01-12T01:12:57",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $50.2K at $43047.50"
+            ]
+        },
+        {
+            "id": 101507,
+            "type": "message",
+            "date": "2022-01-12T02:20:52",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $134K at $42622.12"
+            ]
+        },
+        {
+            "id": 101508,
+            "type": "message",
+            "date": "2022-01-12T02:37:12",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOT"
+                },
+                " Liquidated Short: $50.5K at $25.90"
+            ]
+        },
+        {
+            "id": 101509,
+            "type": "message",
+            "date": "2022-01-12T02:44:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $842K at $42847.86"
+            ]
+        },
+        {
+            "id": 101510,
+            "type": "message",
+            "date": "2022-01-12T03:19:06",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XRP"
+                },
+                " Liquidated Short: $50.6K at $0.765"
+            ]
+        },
+        {
+            "id": 101511,
+            "type": "message",
+            "date": "2022-01-12T03:52:06",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $190K at $42953.61"
+            ]
+        },
+        {
+            "id": 101512,
+            "type": "message",
+            "date": "2022-01-12T03:53:24",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $58K at $42999.56"
+            ]
+        },
+        {
+            "id": 101513,
+            "type": "message",
+            "date": "2022-01-12T03:53:54",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $170K at $43044.08"
+            ]
+        },
+        {
+            "id": 101514,
+            "type": "message",
+            "date": "2022-01-12T04:22:43",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XRP"
+                },
+                " Liquidated Short: $138K at $0.772"
+            ]
+        },
+        {
+            "id": 101515,
+            "type": "message",
+            "date": "2022-01-12T05:50:25",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ATOM"
+                },
+                " Liquidated Short: $74.2K at $39.61"
+            ]
+        },
+        {
+            "id": 101516,
+            "type": "message",
+            "date": "2022-01-12T08:02:40",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOGE"
+                },
+                " Liquidated Short: $50.2K at $0.154"
+            ]
+        },
+        {
+            "id": 101517,
+            "type": "message",
+            "date": "2022-01-12T08:03:19",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#MATIC"
+                },
+                " Liquidated Short: $140K at $2.385"
+            ]
+        },
+        {
+            "id": 101518,
+            "type": "message",
+            "date": "2022-01-12T08:04:18",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#BTC"
+                },
+                " Liquidated Short: $155K at $42846.65"
+            ]
+        },
+        {
+            "id": 101519,
+            "type": "message",
+            "date": "2022-01-12T08:05:08",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#DOGE"
+                },
+                " Liquidated Short: $50.5K at $0.155"
+            ]
+        },
+        {
+            "id": 101520,
+            "type": "message",
+            "date": "2022-01-12T08:13:18",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#SUSHI"
+                },
+                " Liquidated Short: $51.5K at $7.072"
+            ]
+        },
+        {
+            "id": 101521,
+            "type": "message",
+            "date": "2022-01-12T09:04:24",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#GALA"
+                },
+                " Liquidated Short: $53.7K at $0.333"
+            ]
+        },
+        {
+            "id": 101522,
+            "type": "message",
+            "date": "2022-01-12T09:44:22",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#GALA"
+                },
+                " Liquidated Short: $50.5K at $0.338"
+            ]
+        },
+        {
+            "id": 101523,
+            "type": "message",
+            "date": "2022-01-12T11:33:59",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTM"
+                },
+                " Liquidated Short: $54.4K at $2.669"
+            ]
+        },
+        {
+            "id": 101524,
+            "type": "message",
+            "date": "2022-01-12T11:48:34",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#GALA"
+                },
+                " Liquidated Short: $50.5K at $0.346"
+            ]
+        },
+        {
+            "id": 101525,
+            "type": "message",
+            "date": "2022-01-12T11:53:12",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ADA"
+                },
+                " Liquidated Short: $53.8K at $1.218"
+            ]
+        },
+        {
+            "id": 101526,
+            "type": "message",
+            "date": "2022-01-12T11:57:15",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ADA"
+                },
+                " Liquidated Short: $50.1K at $1.220"
+            ]
+        },
+        {
+            "id": 101527,
+            "type": "message",
+            "date": "2022-01-12T13:38:45",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#NEAR"
+                },
+                " Liquidated Short: $51.6K at $18.42"
+            ]
+        },
+        {
+            "id": 101528,
+            "type": "message",
+            "date": "2022-01-12T14:01:24",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#FTM"
+                },
+                " Liquidated Short: $64.8K at $2.770"
+            ]
+        },
+        {
+            "id": 101529,
+            "type": "message",
+            "date": "2022-01-12T14:32:31",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#NEAR"
+                },
+                " Liquidated Short: $91.5K at $18.58"
+            ]
+        },
+        {
+            "id": 101530,
+            "type": "message",
+            "date": "2022-01-12T14:50:09",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $73.5K at $74.88"
+            ]
+        },
+        {
+            "id": 101531,
+            "type": "message",
+            "date": "2022-01-12T14:50:10",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#XRP"
+                },
+                " Liquidated Short: $64.2K at $0.763"
+            ]
+        },
+        {
+            "id": 101532,
+            "type": "message",
+            "date": "2022-01-12T15:14:30",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u201d\u00b4 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LINK"
+                },
+                " Liquidated Long: $54.6K at $25.94"
+            ]
+        },
+        {
+            "id": 101533,
+            "type": "message",
+            "date": "2022-01-12T15:34:27",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#LUNA"
+                },
+                " Liquidated Short: $73.5K at $75.44"
+            ]
+        },
+        {
+            "id": 101534,
+            "type": "message",
+            "date": "2022-01-12T16:10:27",
+            "from": "Binance Futures Liquidations",
+            "from_id": "channel1260161873",
+            "text": [
+                "\u00f0\u0178\u0178\u00a2 ",
+                {
+                    "type": "hashtag",
+                    "text": "#ATOM"
+                },
+                " Liquidated Short: $50.2K at $41.26"
+            ]
+        }
+    ]
+}
